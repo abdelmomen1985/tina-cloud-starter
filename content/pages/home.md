@@ -25,6 +25,12 @@ blocks:
     _template: hero
   - items:
       - icon:
+          color: primary
+          style: float
+          name: like
+        title: This Is a Feature
+        text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
+      - icon:
           color: red
           style: float
           name: code
@@ -32,12 +38,6 @@ blocks:
         text: >-
           Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
           Praesent ac faucibus risus, eu lacinia enim.
-      - icon:
-          color: primary
-          style: float
-          name: like
-        title: This Is a Feature
-        text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
       - icon:
           color: green
           style: float
