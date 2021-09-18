@@ -41,12 +41,6 @@ blocks:
           This is where you might talk about the feature, if this wasn't just
           filler text.
       - icon:
-          color: primary
-          style: float
-          name: like
-        title: This Is a Feature
-        text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
-      - icon:
           color: red
           style: float
           name: code
